@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class azkiah {
+public class AZKIAH {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("input nama: ");
